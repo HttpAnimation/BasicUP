@@ -1,13 +1,7 @@
-# Installing
-Open a teminal and type
-```
-wget 
-```
+# Basic
 
-# Running
-open a terminal and log into sudo with 
+# Steps
+open a terminal and enter
 ```
-su
+su && wget https://raw.githubusercontent.com/HttpAnimation/BasicUP/main/script.sh && chmod +x script.sh && ./script.sh
 ```
-then navigate to the directory where you have cloned this repository. For example: /home/student/Downloads/Basicup-main
-
